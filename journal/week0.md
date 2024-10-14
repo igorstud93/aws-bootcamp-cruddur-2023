@@ -15,4 +15,7 @@
 [AWS json for notifications](aws/notifications-with-subscribers.json)
 
 ### Build Logical diagram
-!.[Logical diagram Static site].(journal/assets/logical diagram.png)
+
+![AWS json for notifications](assets/logical-diagram.png)
+
+
