@@ -6,13 +6,13 @@
   Complet
   
 ### set budget
-![AWS json for budget](aws/budget.json)
+[AWS json for budget](aws/budget.json)
 
 ### set alarm
-![AWS json for alarm](aws/alarm-config.json)
+[AWS json for alarm](aws/alarm-config.json)
 
 ### set alarm
-![AWS json for notifications](aws/notifications-with-subscribers.json)
+[AWS json for notifications](aws/notifications-with-subscribers.json)
 
 ### Build Logical diagram
-![Logical diagram Static site](journal/assets/logical diagram.png)
+!.[Logical diagram Static site].(journal/assets/logical diagram.png)
